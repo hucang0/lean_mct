@@ -1,0 +1,16 @@
+# conda env create -f environment.yml && conda activate lean-mct
+name: lean-mct
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=2.2
+  - scipy=1.15
+  - matplotlib=3.10
+  - numba=0.62
+  - pillow
+  - pip
+  - pip:
+      # GPU solvers in hierarchy/ only; pick the wheel that matches your CUDA driver
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.9.1

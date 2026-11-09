@@ -1,0 +1,33 @@
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.55795, "status": "glass", "iterations": 193, "seconds": 1.3568601608276367, "f1max": 0.9623807239781698}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.536925, "status": "liquid", "iterations": 54, "seconds": 0.3487567901611328, "f1max": 5.7697599811920074e-09}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5474375, "status": "glass", "iterations": 797, "seconds": 4.050457000732422, "f1max": 0.9085170303282992}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5421812500000001, "status": "liquid", "iterations": 82, "seconds": 0.5514097213745117, "f1max": 3.024003240170592e-09}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.544809375, "status": "liquid", "iterations": 128, "seconds": 0.8372540473937988, "f1max": 6.661669377382669e-09}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5461234375, "status": "liquid", "iterations": 221, "seconds": 1.384056568145752, "f1max": 2.6434796396522873e-09}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.54678046875, "status": "liquid", "iterations": 747, "seconds": 4.424167633056641, "f1max": 1.3662520712746006e-10}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.547108984375, "status": "glass", "iterations": 1151, "seconds": 7.607769727706909, "f1max": 0.9010468775134072}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5469447265625, "status": "glass", "iterations": 1793, "seconds": 11.91464614868164, "f1max": 0.8949602059075366}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.54686259765625, "status": "glass", "iterations": 4144, "seconds": 27.18610191345215, "f1max": 0.8889469810439704}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.546821533203125, "status": "liquid", "iterations": 1197, "seconds": 7.110930681228638, "f1max": 9.279829823730026e-09}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5468420654296875, "status": "liquid", "iterations": 2515, "seconds": 17.843732118606567, "f1max": 1.3834045608016483e-09}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5468523315429688, "status": "glass", "iterations": 7106, "seconds": 49.62867784500122, "f1max": 0.8871668862456537}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5468471984863281, "status": "liquid", "iterations": 6348, "seconds": 41.257930517196655, "f1max": 5.999001998027816e-08}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5468497650146484, "status": "glass", "iterations": 10709, "seconds": 69.97627019882202, "f1max": 0.8863726343126017}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "phi": 0.5468484817504883, "status": "glass", "iterations": 21113, "seconds": 155.96360802650452, "f1max": 0.8856514123032311}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "mem", "result": true, "lo": 0.5468471984863281, "hi": 0.5468484817504883}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.573423599243164, "status": "glass", "iterations": 176, "seconds": 16.342673301696777, "f1max": 0.9791056840601599}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5601353988647461, "status": "glass", "iterations": 432, "seconds": 40.894771575927734, "f1max": 0.9482578170431303}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5534912986755371, "status": "liquid", "iterations": 114, "seconds": 10.829010725021362, "f1max": 8.355066102701096e-09}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5568133487701417, "status": "liquid", "iterations": 2555, "seconds": 296.47969222068787, "f1max": 1.3841246162009328e-09}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5584743738174438, "status": "glass", "iterations": 604, "seconds": 118.82864499092102, "f1max": 0.936778496946025}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5576438612937927, "status": "glass", "iterations": 833, "seconds": 169.32316756248474, "f1max": 0.9274283893571899}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5572286050319673, "status": "glass", "iterations": 1142, "seconds": 207.78692603111267, "f1max": 0.9201609478074403}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5570209769010545, "status": "glass", "iterations": 1568, "seconds": 268.4030599594116, "f1max": 0.9146673027093746}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.556917162835598, "status": "glass", "iterations": 2168, "seconds": 486.8807280063629, "f1max": 0.9105655741557126}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5568652558028698, "status": "glass", "iterations": 3058, "seconds": 778.9259946346283, "f1max": 0.9074915618416541}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5568393022865057, "status": "glass", "iterations": 4540, "seconds": 1306.8373446464539, "f1max": 0.9051163503602208}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5568263255283237, "status": "glass", "iterations": 8087, "seconds": 2067.5934705734253, "f1max": 0.9030674975676557}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5568198371492327, "status": "liquid", "iterations": 5448, "seconds": 1136.7755029201508, "f1max": 9.267680642699442e-10}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5568230813387782, "status": "glass", "iterations": 13518, "seconds": 3614.5505089759827, "f1max": 0.9020826307937695}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "phi": 0.5568214592440055, "status": "liquid", "iterations": 15586, "seconds": 4085.37645983696, "f1max": 1.4509698197025614e-09}
+{"M": 100, "qmax": 40.0, "N": 4, "closure": "mem", "result": true, "lo": 0.5568214592440055, "hi": 0.5568230813387782}

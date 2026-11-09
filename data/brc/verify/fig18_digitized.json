@@ -1,0 +1,13 @@
+{
+ "source": "Left panel of Fig. 18 of R. Mari and J. Kurchan, J. Chem. Phys. 135, 124504 (2011): I(m,K)/[d(m-1)] versus ln K at m = 0.96, d = 3. Digitized by eye from a 300 dpi render; only these numbers, not the published image, enter the figure.",
+ "axes": {"lnK": [-3.5, 1.0], "y": [-17.5, -16.7]},
+ "points_lnK_y": [[-3.45, -17.39], [-3.10, -17.36], [-2.75, -17.33], [-2.40, -17.28], [-2.30, -17.26], [-2.20, -17.245],
+                  [-2.10, -17.23], [-2.00, -17.22], [-1.95, -17.21], [-1.75, -17.13], [-1.60, -17.10], [-1.40, -17.03],
+                  [-1.25, -16.985], [-1.10, -16.94], [-0.95, -16.89], [-0.80, -16.85], [-0.60, -16.82], [-0.35, -16.79],
+                  [0.00, -16.78], [0.35, -16.77], [0.70, -16.77]],
+ "largest_gradient_line": [[-2.907, -17.5], [-0.367, -16.7]],
+ "asymptote_y": -16.755,
+ "exact_curve_file": "fig18_curve_mine.dat (exact I(0.96,K)/[d(m-1)], d = 3, unit diameter)",
+ "exact_max_slope_m096": 0.293281,
+ "plateau_exact_K_to_inf": -33.5103
+}

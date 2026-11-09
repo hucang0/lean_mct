@@ -1,0 +1,19 @@
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.516, "status": "glass", "iterations": 1080, "seconds": 0.19710326194763184, "f1max": 0.8590845266539544}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.5157499999999999, "status": "liquid", "iterations": 276, "seconds": 0.02642679214477539, "f1max": 2.2301790982718738e-10}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.515875, "status": "liquid", "iterations": 578, "seconds": 0.05408978462219238, "f1max": 1.902683016309521e-09}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.5159374999999999, "status": "glass", "iterations": 1872, "seconds": 0.14922571182250977, "f1max": 0.8545293437752749}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.51590625, "status": "liquid", "iterations": 1454, "seconds": 0.11875700950622559, "f1max": 1.9436320789693578e-09}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.515921875, "status": "glass", "iterations": 2850, "seconds": 0.2197425365447998, "f1max": 0.8524886348003509}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.5159140625, "status": "glass", "iterations": 5752, "seconds": 0.43180227279663086, "f1max": 0.8506276049020198}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "phi": 0.51591015625, "status": "liquid", "iterations": 2509, "seconds": 0.19774746894836426, "f1max": 6.579945608957596e-11}
+{"M": 100, "qmax": 40.0, "N": 2, "closure": "corr", "result": true, "lo": 0.51591015625, "hi": 0.5159140625}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.532, "status": "glass", "iterations": 1290, "seconds": 0.25346922874450684, "f1max": 0.8794126212982977}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.5315000000000001, "status": "liquid", "iterations": 239, "seconds": 0.041579246520996094, "f1max": 2.1615573101017016e-10}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.5317500000000001, "status": "liquid", "iterations": 406, "seconds": 0.06570792198181152, "f1max": 1.532503940287087e-08}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.5318750000000001, "status": "liquid", "iterations": 1471, "seconds": 0.21144533157348633, "f1max": 1.0628444932114685e-11}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.5319375000000001, "status": "glass", "iterations": 1830, "seconds": 0.2597484588623047, "f1max": 0.8759041762666553}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.53190625, "status": "glass", "iterations": 2743, "seconds": 0.38333940505981445, "f1max": 0.8731800232851828}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.5318906250000001, "status": "glass", "iterations": 5059, "seconds": 0.6934714317321777, "f1max": 0.8707901421205371}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.5318828125000001, "status": "liquid", "iterations": 2898, "seconds": 0.40108537673950195, "f1max": 5.926294891862403e-08}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "phi": 0.53188671875, "status": "glass", "iterations": 9463, "seconds": 1.2844758033752441, "f1max": 0.8695610129034584}
+{"M": 100, "qmax": 40.0, "N": 3, "closure": "corr", "result": true, "lo": 0.5318828125000001, "hi": 0.53188671875}

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Code and data for: More particles or the pair? An exact test of how to improve mode-coupling theory"
+authors:
+  - family-names: Cang
+    given-names: Hu
+    affiliation: "University of California, Irvine"
+    email: cangh@uci.edu
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/hucang/lean_mct"
+keywords:
+  - mode-coupling theory
+  - glass transition
+  - Mari-Kurchan model
+  - hard spheres
+  - Lean 4
+preferred-citation:
+  type: generic
+  title: "More particles or the pair? An exact test of how to improve mode-coupling theory"
+  authors:
+    - family-names: Cang
+      given-names: Hu
+      affiliation: "University of California, Irvine"
+  year: 2026
+  notes: "Manuscript; a public manuscript identifier is not recorded in this release."

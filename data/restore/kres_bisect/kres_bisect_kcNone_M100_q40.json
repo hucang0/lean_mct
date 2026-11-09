@@ -1,0 +1,39 @@
+{
+ "lo": 1.784375,
+ "hi": 1.7875,
+ "kc": null,
+ "M": 100,
+ "qmax": 40.0,
+ "log": [
+  {
+   "phi": 1.75,
+   "status": "liquid",
+   "iterations": 61,
+   "f7": 3.67942249828424e-05
+  },
+  {
+   "phi": 1.775,
+   "status": "liquid",
+   "iterations": 109,
+   "f7": 8.995468489073545e-05
+  },
+  {
+   "phi": 1.7875,
+   "status": "glass",
+   "iterations": 254,
+   "f7": 0.04606388720963642
+  },
+  {
+   "phi": 1.78125,
+   "status": "liquid",
+   "iterations": 166,
+   "f7": 3.91886349701638e-05
+  },
+  {
+   "phi": 1.784375,
+   "status": "unresolved",
+   "iterations": 1500,
+   "f7": 0.041881544656844245
+  }
+ ]
+}

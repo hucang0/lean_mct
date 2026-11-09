@@ -1,0 +1,11 @@
+# Python >= 3.10. Versions used for the paper are given in the comments.
+numpy>=1.24        # 2.2.6
+scipy>=1.10        # 1.15.2
+matplotlib>=3.7    # 3.10.8
+numba>=0.57        # 0.62.1   (simulation/ only)
+Pillow>=9          # 12.3.0   (figures/letter/fig0_cartoon_v2.py only)
+# Optional hierarchy dependency (including the CPU fallback in test e):
+#   pip install torch
+# For the tested CUDA configuration instead:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+# torch>=2.1       # tested: 2.9.1+cu128; test e is explicitly skipped when absent
