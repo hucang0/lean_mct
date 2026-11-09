@@ -1,0 +1,10 @@
+name = "lean_mct"
+defaultTargets = ["LeanMct"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "1f32c4c0fbfa3dc9d2b7ac5716874fa87d3a28d5"
+
+[[lean_lib]]
+name = "LeanMct"

@@ -1,0 +1,11 @@
+MK phi=1.5 N=300: tau_7 = 234 sweeps; R_par = 2.491, R_perp = 0.557, R_iso = 1.101, R_marg_par = 1.223, Re C_par = 1.804
+CHECK MK R_par(tau7): 2.491429 (expected 2.54 +- 0.4) PASS
+CHECK MK Re C_par(tau7): 1.803929 (expected 1.81 +- 0.3) PASS
+CHECK MK R_perp < 1 < R_iso < R_par:  PASS
+CHECK MK R_par: conditional.py vs mk_pearson.py: 2.491429 (expected 2.491429 +- 1e-09) PASS
+HS phi=0.55 N=300: tau_7 = 2627 sweeps; R_par(tau7) = 4.204, Re C_par(tau7) = 2.640, R_par(Fs=0.45) = 3.195, corr_par(tau7) = 0.463
+CHECK HS tau7 / 1e3: 2.627262 (expected 2.7 +- 0.8) PASS
+CHECK HS R_par(tau7): 4.203515 (expected 4.07 +- 0.6) PASS
+CHECK HS Re C_par(tau7): 2.640487 (expected 2.61 +- 0.4) PASS
+CHECK HS R_par(Fs=0.45): 3.195066 (expected 3.22 +- 0.5) PASS
+RESULT: PASS

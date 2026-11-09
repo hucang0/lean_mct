@@ -1,0 +1,7 @@
+restored (1/Z):  phi_c = 1.776241, sigma2_c = 0.045310
+removed (Z = 1): phi_c = 3.236939, sigma2_c = 0.088393
+restored, phi = 2.0: MSD plateau 6 sigma^2 = 0.1194
+CHECK phi_c restored: 1.776241 (expected 1.776241 +- 0.0005) PASS
+CHECK phi_c Z=1: 3.236939 (expected 3.236939 +- 0.0005) PASS
+CHECK MSD(phi=2.0) restored: 0.119382 (expected 0.119 +- 0.002) PASS
+RESULT: PASS

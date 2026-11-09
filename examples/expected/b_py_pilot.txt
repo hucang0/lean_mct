@@ -1,0 +1,12 @@
+n=4000: restored phi_c=1.776241 sigma2_c=0.045310 MSD=0.2719 | Z=1: phi_c=3.236939 sigma2_c=0.088393 MSD=0.5304
+n=8000: restored phi_c=1.776241 sigma2_c=0.045310 MSD=0.2719 | Z=1: phi_c=3.236939 sigma2_c=0.088393 MSD=0.5304
+phi=2.0 restored MSD=0.1194  (SM Table: 0.119)
+CHECK MK restored phi_c (n=8000): 1.776241 (expected 1.776241 +- 1e-05) PASS
+CHECK MK Z=1 phi_c (n=8000): 3.236939 (expected 3.236939 +- 1e-05) PASS
+PY MZ fold, coarse grid (N = 2^14, dr = 0.002): phi_c = 0.51845, MSD_c = 6A = 0.0512
+CHECK PY MZ phi_c (coarse grid): 0.5184485 (expected 0.51845 +- 0.0002) PASS
+PY MZ fold, production grid: phi_c = 0.51845, MSD_c = 0.0512, f_s(7) = 0.658
+CHECK PY MZ phi_c (production grid): 0.5184484 (expected 0.51845 +- 0.0002) PASS
+VWscale MZ fold, production grid: phi_c = 0.53448, MSD_c = 0.0491, f_s(7) = 0.669
+CHECK VWscale MZ phi_c (production grid): 0.5344799 (expected 0.5345 +- 0.0002) PASS
+RESULT: PASS

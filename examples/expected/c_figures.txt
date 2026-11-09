@@ -1,0 +1,11 @@
+CHECK figure letter/fig0_cartoon_v2: pdf+png written (0.9 s, png (1893, 646)) PASS
+CHECK figure letter/fig1_runoff: pdf+png written (0.7 s, png (2092, 532)) PASS
+CHECK figure letter/fig3_restore: pdf+png written (0.5 s, png (1299, 379)) PASS
+CHECK figure sm/F1_statics: pdf+png written (0.6 s, png (2063, 527)) PASS
+CHECK figure sm/F4_grid: pdf+png written (0.7 s, png (2060, 542)) PASS
+CHECK figure sm/F5_simulation_Fs: pdf+png written (0.7 s, png (2086, 599)) PASS
+CHECK figure sm/F6_factorization: pdf+png written (1.1 s, png (2083, 1001)) PASS
+CHECK figure sm/F9_restore_msd: pdf+png written (0.4 s, png (1507, 531)) PASS
+CHECK figure sm/F7_hs_vs_mk_bond: pdf+png written (1.1 s, png (2055, 1367)) PASS
+CHECK figure sm/F8_fig18_overlay: pdf+png written (0.4 s, png (951, 695)) PASS
+RESULT: PASS

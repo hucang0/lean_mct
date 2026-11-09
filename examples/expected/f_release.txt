@@ -1,0 +1,19 @@
+CHECK R2 table generation from published data outside repository cwd:  PASS
+CHECK R2 tables_r2.md matches published result:  PASS
+CHECK R2 key_numbers.json matches published result:  PASS
+CHECK r2_triplet.py rejects missing trajectories/caches:  PASS
+CHECK r2_sum_trip.py rejects missing trajectories/caches:  PASS
+CHECK suite skips unavailable PyTorch and succeeds:  PASS
+CHECK suite skips unavailable PyTorch and propagates failure:  PASS
+CHECK launch_equil.sh  waits for all 33 stub jobs (success): completed=33, exit=0;  PASS
+CHECK launch_equil.sh  waits for all 33 stub jobs (failure): completed=33, exit=1;  PASS
+CHECK launch_dyn.sh  waits for all 39 stub jobs (success): completed=39, exit=0;  PASS
+CHECK launch_dyn.sh  waits for all 39 stub jobs (failure): completed=39, exit=1;  PASS
+CHECK launch_md.sh  waits for all 12 stub jobs (success): completed=12, exit=0;  PASS
+CHECK launch_md.sh  waits for all 12 stub jobs (failure): completed=12, exit=1;  PASS
+CHECK launch_mc.sh A waits for all 29 stub jobs (success): completed=29, exit=0;  PASS
+CHECK launch_mc.sh A waits for all 29 stub jobs (failure): completed=29, exit=1;  PASS
+CHECK launch_mc.sh B waits for all 24 stub jobs (success): completed=24, exit=0;  PASS
+CHECK launch_mc.sh B waits for all 24 stub jobs (failure): completed=24, exit=1;  PASS
+CHECK missing equilibration inputs fail promptly:  PASS
+RESULT: PASS
