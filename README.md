@@ -112,7 +112,7 @@ add the final publication details when available:
       note   = {Manuscript}
     }
 
-Code and data: <https://github.com/hucang/lean_mct>. Metadata: `CITATION.cff`.
+Code and data: <https://github.com/hucang0/lean_mct>. Metadata: `CITATION.cff`.
 
 ## License
 
