@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.nbi
+*.nbc
+.ipynb_checkpoints/
+
+# outputs written next to the scripts (the shipped copies live in data/, which is NOT ignored)
+/hierarchy/results/
+/hierarchy/*.jsonl
+/restored_pair/results/
+/restored_pair/cache/
+/py_pilot/results/
+/simulation/*/results/
+/simulation/*/figs/
+/simulation/*/figures/
+/simulation/*/logs/
+/simulation/*/cache/
+
+# simulation trajectories and analysis caches (large; regenerate with the launch scripts)
+/simulation/*/data/
+/simulation/*/data_B/
+*.npz
+*.npy
+
+# generated figures
+/figures/**/*.pdf
+/figures/**/*.png
+/figures/**/*.jpg
+/figures/**/*.tiff
+
+# smoke-test work files
+/examples/_work/
+
+# Lean build output (Mathlib is fetched by lake)
+/lean/.lake/
+
+# editors / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
